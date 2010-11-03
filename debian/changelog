@@ -1,10 +1,18 @@
+base-files (5.9+1canaima0) unstable; urgency=low
+
+  * [5a771d8] Limpiando código, corrigiendo mantenedor y aplicando
+    versionamiento de Canaima
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 03 Nov 2010 01:55:11 -0430
+
 base-files (5.9) unstable; urgency=medium
 
+  [ Santiago Vila ]
   * Changed /etc/profile so that it defines PATH again. Closes: #571086.
     We will have plenty of time to discuss about this after the release
     of squeeze, but for now, this is the safe thing to do.
 
- -- Santiago Vila <sanvila@debian.org>  Fri, 06 Aug 2010 19:37:40 +0200
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 03 Nov 2010 01:52:37 -0430
 
 base-files (5.8) unstable; urgency=low
 
