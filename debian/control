@@ -1,7 +1,7 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Santiago Vila <sanvila@debian.org>
+Maintainer: Jesus Lara <jesuslara@devel.com.ve>
 Standards-Version: 3.9.1
 
 Package: base-files
@@ -11,7 +11,7 @@ Pre-Depends: awk
 Essential: yes
 Priority: required
 Replaces: base, miscutils, dpkg (<= 1.15.0)
-Description: Debian base system miscellaneous files
+Description: Sistema de Archivos Base de Canaima
  This package contains the basic filesystem hierarchy of a Debian system, and
  several important miscellaneous files, such as /etc/debian_version,
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, /etc/nsswitch.conf,
