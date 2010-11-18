@@ -1,7 +1,8 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Jesus Lara <jesuslara@devel.com.ve>
+Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
+Uploaders: Jesus Lara <jesuslara@devel.com.ve>
 Standards-Version: 3.9.1
 
 Package: base-files
