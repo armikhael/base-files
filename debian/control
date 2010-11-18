@@ -4,6 +4,8 @@ Priority: required
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
 Uploaders: Jesus Lara <jesuslara@devel.com.ve>
 Standards-Version: 3.9.1
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/base-files.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/base-files
 
 Package: base-files
 Provides: base
@@ -13,7 +15,7 @@ Essential: yes
 Priority: required
 Replaces: base, miscutils, dpkg (<= 1.15.0)
 Description: Sistema de Archivos Base de Canaima
- This package contains the basic filesystem hierarchy of a Debian system, and
- several important miscellaneous files, such as /etc/debian_version,
+ Éste paquete contiene la jerarquía básica del sistema operativo Canaima, y
+ numerosos archivos misceláneos de configuración como el /etc/canaima_version,
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, /etc/nsswitch.conf,
- and others, and the text of several common licenses in use on Debian systems.
+ entre otros, y el texto de diferentes licencias libres en Canaima.
