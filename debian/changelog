@@ -1,8 +1,10 @@
 base-files (5.9+1canaima2) unstable; urgency=low
 
   * [4df77a7] Agregando lista de cosas por hacer (TODO)
+  * [2f8d097] Agregando TODO List
+  * [39288fd] Nueva versión
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 26 Nov 2010 16:12:07 -0430
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 26 Nov 2010 16:14:34 -0430
 
 base-files (5.9+1canaima1) unstable; urgency=low
 
