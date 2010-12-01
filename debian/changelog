@@ -1,3 +1,10 @@
+base-files (5.10+1canaima4) unstable; urgency=low
+
+  * [ababb99] Modificando el MOTD y aplicando patch de la versión nueva
+    en Debian Squeeze
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 01 Dec 2010 14:13:53 -0430
+
 base-files (5.9+1canaima3) unstable; urgency=low
 
   * [a2ca862] Modificando /etc/canaima_version
