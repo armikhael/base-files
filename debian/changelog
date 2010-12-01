@@ -1,3 +1,9 @@
+base-files (5.9+1canaima3) unstable; urgency=low
+
+  * [a2ca862] Modificando /etc/canaima_version
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 01 Dec 2010 10:49:25 -0430
+
 base-files (5.9+1canaima2) unstable; urgency=low
 
   * [4df77a7] Agregando lista de cosas por hacer (TODO)
