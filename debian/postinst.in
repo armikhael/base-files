@@ -69,13 +69,12 @@ if [ "$1" = "configure" ] && [ "$2" = "" ]; then
   chown root:utmp /var/log/wtmp /var/log/btmp /var/log/lastlog
   chmod 664 /var/log/wtmp /var/log/lastlog
   chmod 660 /var/log/btmp
+  if [ ! -f /var/run/utmp ]; then
+    echo -n>/var/run/utmp
+  fi
+  chown root:utmp /var/run/utmp
+  chmod 664 /var/run/utmp
 fi
-
-if [ ! -f /var/run/utmp ]; then
-  echo -n>/var/run/utmp
-fi
-chown root:utmp /var/run/utmp
-chmod 664 /var/run/utmp
 
 if [ ! -d /var/lib/dpkg ]; then
   mkdir -m 755 -p /var/lib/dpkg
