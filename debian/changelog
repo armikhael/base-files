@@ -1,3 +1,9 @@
+base-files (6.0+canaima5) unstable; urgency=low
+
+  * [01b9ef9] Corrigiendo Message of The Day (MOTD)
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Mon, 24 Jan 2011 12:46:05 -0430
+
 base-files (5.10+1canaima4) unstable; urgency=low
 
   * [ababb99] Modificando el MOTD y aplicando patch de la versión nueva
