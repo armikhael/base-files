@@ -1,8 +1,14 @@
 base-files (6.0+canaima8) unstable; urgency=low
 
+  [ Luis Alejandro Martínez Faneyth ]
   * [3e33776] Corrigiendo MOTD y debian_version
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 11 Feb 2011 11:56:03 -0430
+  [ Jesus Lara ]
+  * [c717bed] modificado bashrc para que admite color el directorios y
+    nueva version de nsswitch
+  * [30f8883] incorporado cambios en el bashrc
+
+ -- Jesus Lara <jesuslara@lexotanil.jesuslara.ve>  Sun, 27 Mar 2011 11:27:19 -0430
 
 base-files (6.0+canaima7) unstable; urgency=low
 
