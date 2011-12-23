@@ -4,6 +4,7 @@ Priority: required
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
 Uploaders: Jesus Lara <jesuslara@devel.com.ve>
 Standards-Version: 3.9.1
+Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/base-files.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/base-files/trees/master
 
