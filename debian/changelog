@@ -11,7 +11,7 @@ base-files (6.0.1-1canaima9) unstable; urgency=low
   [ Luis Alejandro Martínez Faneyth ]
   * [20ca662] Quitando residuos de build anterior.
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 06 Apr 2011 14:54:33 -0430
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 23 Dec 2011 13:46:23 -0430
 
 base-files (6.0+canaima8) unstable; urgency=low
 
