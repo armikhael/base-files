@@ -1,3 +1,10 @@
+base-files (6.0.1-1canaima12) unstable; urgency=low
+
+  * [b42e237] Corrigiendo el nombre del changelog en
+    /usr/share/doc/base-files
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 19:10:25 -0430
+
 base-files (6.0.1-1canaima11) unstable; urgency=low
 
   * [b6fb938] Cambiando formato de fuentes a 3.0 (quilt)
