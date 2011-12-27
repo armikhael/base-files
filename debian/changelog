@@ -1,3 +1,9 @@
+base-files (6.0.1-1canaima11) unstable; urgency=low
+
+  * [b6fb938] Cambiando formato de fuentes a 3.0 (quilt)
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 14:57:31 -0430
+
 base-files (6.0.1-1canaima10) unstable; urgency=low
 
   * [07f9b03] Merge branches 'master' and 'upstream' of
