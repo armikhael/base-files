@@ -1,3 +1,9 @@
+base-files (6.0.1-1canaima14) unstable; urgency=low
+
+  * [0691484] Corrigiendo errores de lintian.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Thu, 05 Jul 2012 12:24:51 -0430
+
 base-files (6.0.1-1canaima13) unstable; urgency=low
 
   * [a6ef148] Restaurando fuentes originales para modificar a través de
