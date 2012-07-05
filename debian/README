@@ -4,10 +4,10 @@ Frequently Asked Questions about base-files
 * Questions about /etc/issue and /etc/debian_version:
 
 Q. I upgraded my system to the testing distribution and now my /etc/issue
-says "squeeze/sid". Should it not read "squeeze" or "testing"?
+says "wheezy/sid". Should it not read "wheezy" or "testing"?
 
 Q. I upgraded my system to the unstable distribution and now my /etc/issue
-says "squeeze/sid". Should it not read "sid" or "unstable"?
+says "wheezy/sid". Should it not read "sid" or "unstable"?
 
 A. You obviously do not understand how the testing distribution works.
 Packages uploaded for unstable reach testing after ten days, provided
@@ -16,10 +16,10 @@ their dependencies may be met in testing. You should consider the
 testing and unstable distributions as two sides of the same coin.
 Since the base-files package in testing was initially uploaded for
 unstable, the only sensible /etc/issue to have is one that is both
-valid for testing and unstable, hence "squeeze/sid" (or whatever is
+valid for testing and unstable, hence "wheezy/sid" (or whatever is
 appropriate).
 
-Q. Why "squeeze/sid" and not "testing/unstable" as usual?
+Q. Why "wheezy/sid" and not "testing/unstable" as it used to be?
 
 A. The codename is a little bit more informative, as the meaning of
 "testing" changes over time.
