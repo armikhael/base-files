@@ -1,26 +1,8 @@
 
 
-"_________________________________________________________"
-|                                                         |
-|        _____                   _                        |
-|       / ____|                 (_)                       | 
-|      | |      __ _ _ __   __ _ _ _ __ ___   __ _        |
-|      | |     / _` | '_ \ / _` | | '_ ` _ \ / _` |       |
-|      | |____| (_| | | | | (_| | | | | | | | (_| |       |
-|       \_____|\__,_|_| |_|\__,_|_|_| |_| |_|\__,_|       |
-|                                                         |
-|    _____ _   _ _    _    ___      _                     |
-|   / ____| \ | | |  | |  / / |    (_)                    |
-|  | |  __|  \| | |  | | / /| |     _ _ __  _   ___  __   |
-|  | | |_ | . ` | |  | |/ / | |    | | '_ \| | | \ \/ /   |
-|  | |__| | |\  | |__| / /  | |____| | | | | |_| |>  <    |
-|   \_____|_| \_|\____/_/   |______|_|_| |_|\__,_/_/\_\   |
-|                                                         |
-"_________________________________________________________"
+The programs included with the Debian #OSNAME# system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
 
-
-Los programas incluidos en Canaima GNU/Linux son Software 
-Libre. Puede ser modificado y distribuído de acuerdo a los
-términos de la licencia GPL3.
-
-
+Debian #OSNAME# comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
