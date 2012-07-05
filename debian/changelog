@@ -1,8 +1,9 @@
 base-files (6.0.1-1canaima15) unstable; urgency=low
 
   * [0554898] Corrigiendo mantenedor.
+  * [1c43823] Removiendo parches.
 
- -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Thu, 05 Jul 2012 14:19:01 -0430
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Thu, 05 Jul 2012 14:20:15 -0430
 
 base-files (6.0.1-1canaima14) unstable; urgency=low
 
