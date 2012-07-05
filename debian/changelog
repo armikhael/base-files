@@ -1,3 +1,12 @@
+base-files (6.0.1-1canaima13) unstable; urgency=low
+
+  * [a6ef148] Restaurando fuentes originales para modificar a través de
+    parches.
+  * [eadb027] Agregando parches para realizar las modificaciones a las
+    fuentes originales.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Thu, 05 Jul 2012 12:15:13 -0430
+
 base-files (6.0.1-1canaima12) unstable; urgency=low
 
   * [b42e237] Corrigiendo el nombre del changelog en
