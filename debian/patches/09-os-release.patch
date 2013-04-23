@@ -1,0 +1,22 @@
+Index: base-files-7.1/etc/os-release
+===================================================================
+--- base-files-7.1.orig/etc/os-release	2012-12-12 06:30:00.000000000 -0430
++++ base-files-7.1/etc/os-release	2013-03-14 12:04:49.003484995 -0430
+@@ -1,9 +1,9 @@
+-PRETTY_NAME="Debian #OSNAME# 7.0 (wheezy)"
+-NAME="Debian #OSNAME#"
+-VERSION_ID="7.0"
+-VERSION="7.0 (wheezy)"
+-ID=debian
++PRETTY_NAME="Canaima #OSNAME# 4.0 (kerepakupai)"
++NAME="Canaima #OSNAME#"
++VERSION_ID="4.0"
++VERSION="4.0 (kerepakupai)"
++ID=canaima
+ ANSI_COLOR="1;31"
+-HOME_URL="http://www.debian.org/"
+-SUPPORT_URL="http://www.debian.org/support/"
+-BUG_REPORT_URL="http://bugs.debian.org/"
++HOME_URL="http://http://canaima.softwarelibre.gob.ve/"
++SUPPORT_URL="http://http://canaima.softwarelibre.gob.ve/Soporte"
++BUG_REPORT_URL="http://http://trac.canaima.softwarelibre.gob.ve/canaima/"

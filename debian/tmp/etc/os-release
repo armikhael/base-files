@@ -1,0 +1,9 @@
+PRETTY_NAME="Canaima GNU/Linux 4.0 (kerepakupai)"
+NAME="Canaima GNU/Linux"
+VERSION_ID="4.0"
+VERSION="4.0 (kerepakupai)"
+ID=canaima
+ANSI_COLOR="1;31"
+HOME_URL="http://http://canaima.softwarelibre.gob.ve/"
+SUPPORT_URL="http://http://canaima.softwarelibre.gob.ve/Soporte"
+BUG_REPORT_URL="http://http://trac.canaima.softwarelibre.gob.ve/canaima/"

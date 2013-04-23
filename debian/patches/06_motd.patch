@@ -1,9 +1,8 @@
-Index: base-files-6.0.1-1canaima12/etc/motd
+Index: base-files-7.1/share/motd
 ===================================================================
---- base-files-6.0.1-1canaima12.orig/etc/motd	2012-07-05 11:53:25.139360844 -0430
-+++ base-files-6.0.1-1canaima12/etc/motd	2012-07-05 11:54:19.655359158 -0430
-@@ -1,8 +1,26 @@
- 
+--- base-files-7.1.orig/share/motd	2013-03-13 22:12:35.940081168 +0100
++++ base-files-7.1/share/motd	2013-03-13 22:15:44.940075959 +0100
+@@ -1,7 +1,24 @@
  
 -The programs included with the Debian #OSNAME# system are free software;
 -the exact distribution terms for each program are described in the
@@ -30,7 +29,6 @@ Index: base-files-6.0.1-1canaima12/etc/motd
 +Los programas incluidos en Canaima GNU/Linux son Software
 +Libre. Puede ser modificado y distribuído de acuerdo a los
 +términos de la licencia GPL3.
-+
  
 -Debian #OSNAME# comes with ABSOLUTELY NO WARRANTY, to the extent
 -permitted by applicable law.

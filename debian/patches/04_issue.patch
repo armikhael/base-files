@@ -3,6 +3,6 @@ Index: base-files-6.0.1-1canaima12/etc/issue
 --- base-files-6.0.1-1canaima12.orig/etc/issue	2012-07-05 11:50:21.815859790 -0430
 +++ base-files-6.0.1-1canaima12/etc/issue	2012-07-05 11:52:16.587860255 -0430
 @@ -1,2 +1,2 @@
--Debian #OSNAME# 6.0 \n \l
-+Canaima #OSNAME# 3.1 \n \l
+-Debian #OSNAME# 7.0 \n \l
++Canaima #OSNAME# 4.0 \n \l
  
