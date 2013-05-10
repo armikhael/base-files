@@ -1,4 +1,17 @@
-base-files (7.1canaima1) unstable; urgency=low
+base-files (7.1Canaima2) unstable; urgency=low
+
+  [ Carlos Espinoza ]
+  * [1adf0ca] agregando modificacion en rules
+  * [8c926e5] agregando cambios al rules
+  * [6397aca] agregando cambios al control
+  * [d7b07d1] agregando cambios al source
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [8ad0c19] Colocando nombre correcto del Mantenedor.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Fri, 10 May 2013 16:13:15 -0430
+
+base-files (7.1Canaima1) unstable; urgency=low
 
   * [cbf39b5] nueva prueba
 
