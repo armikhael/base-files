@@ -1,7 +1,0 @@
-Index: base-files-6.0.1-1canaima12/etc/issue.net
-===================================================================
---- base-files-6.0.1-1canaima12.orig/etc/issue.net	2012-07-05 11:52:45.124358906 -0430
-+++ base-files-6.0.1-1canaima12/etc/issue.net	2012-07-05 11:52:59.787359531 -0430
-@@ -1 +1 @@
--Debian #OSNAME# 7.0
-+Canaima #OSNAME# 4.0
