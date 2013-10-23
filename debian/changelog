@@ -1,8 +1,14 @@
-base-files (7.1wheezy1canaima3) stable; urgency=low
+base-files (7.1wheezy2canaima4) stable; urgency=low
 
-  * UNRELEASED
+  * [2748b7a] Nueva versión base-files
 
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 31 Jul 2013 17:40:56 -0430
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 23 Oct 2013 14:43:07 -0430
+
+base-files (7.1wheezy2) stable; urgency=low
+
+  * Changed /etc/debian_version to 7.2, for Debian 7.2 point release.
+
+ -- Santiago Vila <sanvila@debian.org>  Mon, 23 Sep 2013 00:28:46 +0200
 
 base-files (7.1wheezy1) stable; urgency=low
 
