@@ -10,7 +10,9 @@ lib
 mnt
 proc
 root
+run
 sbin
+sys
 tmp
 usr
 usr/bin
@@ -22,6 +24,7 @@ usr/share
 usr/share/common-licenses
 usr/share/dict
 usr/share/info
+usr/share/lintian/overrides
 usr/share/man
 usr/share/misc
 usr/src

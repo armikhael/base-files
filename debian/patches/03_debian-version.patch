@@ -1,7 +1,0 @@
-Index: base-files-6.0.1-1canaima12/etc/debian_version
-===================================================================
---- base-files-6.0.1-1canaima12.orig/etc/debian_version	2012-07-05 11:49:52.756360741 -0430
-+++ base-files-6.0.1-1canaima12/etc/debian_version	2012-07-05 11:49:58.079859622 -0430
-@@ -1 +1 @@
--6.0.5
-+Canaima
