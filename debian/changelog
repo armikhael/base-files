@@ -1,3 +1,10 @@
+base-files (7.1wheezy3canaima1) kerepakupai; urgency=medium
+
+  * [6eb15a1] Importando nueva versión Upstream 7.1wheezy3
+  * [f87b7cf] "Actualizando el parche 03_debian_version"
+
+ -- Erick Birbe <erickcion@gmail.com>  Mon, 16 Dec 2013 16:49:37 -0430
+
 base-files (7.1wheezy2canaima4) stable; urgency=low
 
   * [2748b7a] Nueva versión base-files
