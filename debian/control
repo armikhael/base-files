@@ -2,10 +2,10 @@ Source: base-files
 Section: admin
 Priority: required
 Maintainer: Carlos Espinoza <carlosarmikhael@gmail.com>
-Standards-Version: 3.9.3
+Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
-Vcs-Git: git://gitorious.org/canaima-gnu-linux/base-files.git
-Vcs-Browser: http://gitorious.org/canaima-gnu-linux/base-files/trees/master
+Vcs-Git: git://git.canaima.softwarelibre.gob.ve/base-files.git
+Vcs-Browser: http://git.canaima.softwarelibre.gob.ve/?p=base-files.git
 
 Package: base-files
 Provides: base
