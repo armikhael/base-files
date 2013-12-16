@@ -1,7 +1,7 @@
-Index: base-files-7.1/etc/debian_version
+Index: base-files/etc/debian_version
 ===================================================================
---- base-files-7.1.orig/etc/debian_version	2012-12-12 12:00:00.000000000 +0100
-+++ base-files-7.1/etc/debian_version	2013-03-13 20:10:32.759573000 +0100
+--- base-files.orig/etc/debian_version	2013-12-16 16:44:22.512250605 -0430
++++ base-files/etc/debian_version	2013-12-16 16:45:29.216978949 -0430
 @@ -1 +1 @@
--7.2
+-7.3
 +Canaima
