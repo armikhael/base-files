@@ -1,3 +1,13 @@
+base-files (7.1wheezy3-2) kukenan; urgency=low
+
+  [ Erick Birbe ]
+  * [cd179c6] Cambiando configuración para evitar errores de Lintian
+
+  [ Carlos Espinoza ]
+  * [0ee394d] Modificando Patches para Canaima 4.1 kukenan
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Thu, 06 Feb 2014 15:35:36 +0000
+
 base-files (7.1wheezy3-1) kerepakupai; urgency=medium
 
   * [6eb15a1] Importando nueva versión Upstream 7.1wheezy3
