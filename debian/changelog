@@ -1,25 +1,14 @@
-base-files (7.1wheezy3-2) kukenan; urgency=low
+base-files (7.1wheezy4) stable; urgency=low
 
-  [ Erick Birbe ]
-  * [cd179c6] Cambiando configuración para evitar errores de Lintian
+  * Changed /etc/debian_version to 7.4, for Debian 7.4 point release.
 
-  [ Carlos Espinoza ]
-  * [0ee394d] Modificando Patches para Canaima 4.1 kukenan
+ -- Santiago Vila <sanvila@debian.org>  Tue, 28 Jan 2014 11:49:40 +0100
 
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Thu, 06 Feb 2014 15:35:36 +0000
+base-files (7.1wheezy3) stable; urgency=low
 
-base-files (7.1wheezy3-1) kerepakupai; urgency=medium
+  * Changed /etc/debian_version to 7.3, for Debian 7.3 point release.
 
-  * [6eb15a1] Importando nueva versión Upstream 7.1wheezy3
-  * [f87b7cf] "Actualizando el parche 03_debian_version"
-
- -- Erick Birbe <erickcion@gmail.com>  Mon, 16 Dec 2013 16:49:37 -0430
-
-base-files (7.1wheezy2canaima4) stable; urgency=low
-
-  * [2748b7a] Nueva versión base-files
-
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 23 Oct 2013 14:43:07 -0430
+ -- Santiago Vila <sanvila@debian.org>  Wed, 04 Dec 2013 12:30:04 +0100
 
 base-files (7.1wheezy2) stable; urgency=low
 
