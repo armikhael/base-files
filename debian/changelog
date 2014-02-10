@@ -1,3 +1,11 @@
+base-files (7.1wheezy4-1) stable; urgency=low
+
+  * [20a9aaa] Debian Versión 7.3
+  * [1c256c4] Cambio para la versión kerepakupai 4.0
+  * [e8ea5fc] format quilt
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Mon, 10 Feb 2014 15:20:44 +0000
+
 base-files (7.1wheezy4) stable; urgency=low
 
   * Changed /etc/debian_version to 7.4, for Debian 7.4 point release.
