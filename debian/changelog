@@ -1,3 +1,9 @@
+base-files (7.1wheezy5-2) stable; urgency=low
+
+  * [c49eacc] Cambios para la versión 4.1 kukenan
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 29 Apr 2014 15:28:39 +0000
+
 base-files (7.1wheezy5-1) stable; urgency=low
 
   * [e8e18be] Version de debian 7.5
