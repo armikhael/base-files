@@ -1,15 +1,8 @@
-base-files (7.1wheezy5-2) stable; urgency=low
+base-files (7.1wheezy6) stable; urgency=low
 
-  * [c49eacc] Cambios para la versión 4.1 kukenan
+  * Changed /etc/debian_version to 7.6, for Debian 7.6 point release.
 
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 29 Apr 2014 15:28:39 +0000
-
-base-files (7.1wheezy5-1) stable; urgency=low
-
-  * [e8e18be] Version de debian 7.5
-  * [deff84e] Cambios para la version 4.0 kerepakupai
-
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 29 Apr 2014 14:51:23 +0000
+ -- Santiago Vila <sanvila@debian.org>  Wed, 11 Jun 2014 23:06:00 +0200
 
 base-files (7.1wheezy5) stable; urgency=low
 

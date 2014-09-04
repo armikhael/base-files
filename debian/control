@@ -1,11 +1,8 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Carlos Espinoza <carlosarmikhael@gmail.com>
-Standards-Version: 3.9.4
-Homepage: http://canaima.softwarelibre.gob.ve/
-Vcs-Git: git://git.canaima.softwarelibre.gob.ve/base-files.git
-Vcs-Browser: http://git.canaima.softwarelibre.gob.ve/?p=base-files.git
+Maintainer: Santiago Vila <sanvila@debian.org>
+Standards-Version: 3.9.1
 
 Package: base-files
 Provides: base
@@ -16,8 +13,8 @@ Priority: required
 Replaces: base, miscutils, dpkg (<= 1.15.0)
 Breaks: initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
 Multi-Arch: foreign
-Description: Sistema de Archivos Base de Canaima
- Éste paquete contiene la jerarquía básica del sistema operativo Canaima, y
- numerosos archivos misceláneos de configuración como el /etc/canaima_version,
- /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, /etc/nsswitch.conf,
- entre otros, y el texto de diferentes licencias libres en Canaima.
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version,
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
+ and the text of several common licenses in use on Debian systems.
