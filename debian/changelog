@@ -1,3 +1,12 @@
+base-files (7.1wheezy6-2) stable; urgency=low
+
+  [ Carlos Espinoza ]
+  * [e176171] Cambios para la versión 4.1 kukenan
+
+  [ root ]
+
+ -- root <root@armikhael>  Thu, 04 Sep 2014 20:54:00 +0000
+
 base-files (7.1wheezy6-1) stable; urgency=low
 
   * [c9a6788] Control format patchs
