@@ -1,3 +1,11 @@
+base-files (7.1wheezy6-1) stable; urgency=low
+
+  * [c9a6788] Control format patchs
+  * [060e902] modificando patch 03
+  * [3a5db25] Cambios para la version 4.0 kerepakupai
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Thu, 04 Sep 2014 20:19:31 +0000
+
 base-files (7.1wheezy6) stable; urgency=low
 
   * Changed /etc/debian_version to 7.6, for Debian 7.6 point release.
