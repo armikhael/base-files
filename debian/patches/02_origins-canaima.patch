@@ -1,0 +1,9 @@
+Index: base-files-6.0.1-1canaima12/origins/canaima
+===================================================================
+--- /dev/null	1970-01-01 00:00:00.000000000 +0000
++++ base-files-6.0.1-1canaima12/origins/canaima	2012-07-05 11:47:27.147860144 -0430
+@@ -0,0 +1,4 @@
++Vendor: Canaima
++Vendor-URL: http://canaima.softwarelibre.gob.ve/
++Bugs: http://proyectos.canaima.softwarelibre.gob.ve/canaima/
++Parent: Debian
