@@ -1,3 +1,11 @@
+base-files (7.1wheezy7-1) stable; urgency=medium
+
+  * [6399a5e] patch format serie control
+  * [10f0e30] patch 03
+  * [0fdc5e8] cambios para kerepakupai 4.0
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 05 Nov 2014 12:26:29 -0430
+
 base-files (7.1wheezy7) stable; urgency=low
 
   * Changed /etc/debian_version to 7.7, for Debian 7.7 point release.
