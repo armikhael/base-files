@@ -1,3 +1,9 @@
+base-files (7.1wheezy7-2) stable; urgency=medium
+
+  * [c3b92ca] cambios para kukenan
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Wed, 05 Nov 2014 12:27:31 -0430
+
 base-files (7.1wheezy7-1) stable; urgency=medium
 
   * [6399a5e] patch format serie control
