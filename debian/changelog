@@ -1,19 +1,8 @@
-base-files (7.1wheezy6-2) stable; urgency=low
+base-files (7.1wheezy7) stable; urgency=low
 
-  [ Carlos Espinoza ]
-  * [e176171] Cambios para la versión 4.1 kukenan
+  * Changed /etc/debian_version to 7.7, for Debian 7.7 point release.
 
-  [ root ]
-
- -- root <root@armikhael>  Thu, 04 Sep 2014 20:54:00 +0000
-
-base-files (7.1wheezy6-1) stable; urgency=low
-
-  * [c9a6788] Control format patchs
-  * [060e902] modificando patch 03
-  * [3a5db25] Cambios para la version 4.0 kerepakupai
-
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Thu, 04 Sep 2014 20:19:31 +0000
+ -- Santiago Vila <sanvila@debian.org>  Sun, 21 Sep 2014 20:15:10 +0200
 
 base-files (7.1wheezy6) stable; urgency=low
 

@@ -1,7 +1,0 @@
-Index: base-files/etc/debian_version
-===================================================================
---- base-files.orig/etc/debian_version	2013-12-16 16:44:22.512250605 -0430
-+++ base-files/etc/debian_version	2013-12-16 16:45:29.216978949 -0430
-@@ -1 +1 @@
--7.6
-+Canaima
