@@ -1,7 +1,7 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Carlos Espinoza <carlosarmikhael@gmail.com>
+Maintainer: Carlos Adrian Espinoza <carlosarmikhael@gmail.com>
 Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://git.canaima.softwarelibre.gob.ve/base-files.git
